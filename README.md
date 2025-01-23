@@ -17,7 +17,8 @@ Proje, **MPU6050** sensöründen ivme ve gyroskop; **DHT11** sensöründen de s�
 
 Aşağıdaki görseller, kart çalıştırıldıktan sonra elde edilen verilere ait grafiklerdir:
 
-- **Intro Ekranı:** ![Intro](images/kart/intro2.png)
+- **Intro Ekranı:** ![Intro1](images/kart/intro1.png)
+![Intro2](images/kart/intro2.png)
 - **İvme Ölçer (Accelerometer) Grafiği:** ![İvme Grafiği](images/kart//acc.png)
 - **Gyroskop Grafiği:** ![Gyroskop Grafiği](images/kart/gyro.png)
 - **Sıcaklık Sensörü Grafiği:** ![Sıcaklık Grafiği](images/kart/temp.png)
