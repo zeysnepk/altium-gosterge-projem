@@ -19,7 +19,7 @@ Aşağıdaki görseller, kart çalıştırıldıktan sonra elde edilen verilere 
 
 - **Intro Ekranı:** ![Intro1](images/kart/intro1.png)
 ![Intro2](images/kart/intro2.png)
-- **İvme Ölçer (Accelerometer) Grafiği:** ![İvme Grafiği](images/kart//acc.png)
+- **İvme Ölçer (Accelerometer) Grafiği:** ![İvme Grafiği](images/kart//acc.jpg)
 - **Gyroskop Grafiği:** ![Gyroskop Grafiği](images/kart/gyro.png)
 - **Sıcaklık Sensörü Grafiği:** ![Sıcaklık Grafiği](images/kart/temp.png)
 
