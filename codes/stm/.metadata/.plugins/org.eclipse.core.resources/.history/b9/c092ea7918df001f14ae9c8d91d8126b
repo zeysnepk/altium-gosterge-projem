@@ -1,0 +1,25 @@
+
+#ifndef DHT11_H
+#define DHT11_H
+
+
+#include "stm32f4xx_hal.h"
+
+
+#define DHT11_PORT 		GPIOD
+#define DHT11_PORT_PIN 	GPIO_PIN_6
+
+typedef struct {
+    int hum;
+    int temp;
+} Dht11;
+
+
+void DHT11_Conf(TIM_HandleTypeDef *htim, GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+void Pin_Output(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+void Pin_Input(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+void Delay_Microseconds(TIM_HandleTypeDef *htim, uint16_t time);
+int8_t DHT_veri_al(TIM_HandleTypeDef *htim, GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
+
+
+#endif

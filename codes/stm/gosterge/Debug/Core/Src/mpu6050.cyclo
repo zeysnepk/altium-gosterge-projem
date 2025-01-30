@@ -1,0 +1,4 @@
+../Core/Src/mpu6050.c:5:9:WhoamI_Control	1
+../Core/Src/mpu6050.c:13:6:Mpu_Conf	1
+../Core/Src/mpu6050.c:38:6:Mem_W_R	1
+../Core/Src/mpu6050.c:43:9:Mpu_Oku	1

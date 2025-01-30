@@ -1,0 +1,5 @@
+../Core/Src/dht11.c:6:7:DHT11_Oku	6
+../Core/Src/dht11.c:40:6:Pin_Output	1
+../Core/Src/dht11.c:50:6:Pin_Input	1
+../Core/Src/dht11.c:58:6:Delay_Microseconds	2
+../Core/Src/dht11.c:63:8:DHT_veri_al	5

@@ -1,0 +1,9 @@
+
+
+#include "dht11.h"
+
+
+void DHT11_Conf(){
+	HAL_GPIO_WritePin(GPIOD, GPIO_PIN_6, RESET);
+	HAL_Delay(18);
+}
