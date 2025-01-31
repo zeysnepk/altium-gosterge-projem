@@ -1,4 +1,0 @@
-../Core/Src/mpu6050.c:5:9:WhoamI_Control	32	static
-../Core/Src/mpu6050.c:13:6:Mpu_Conf	24	static
-../Core/Src/mpu6050.c:38:6:Mem_W_R	40	static
-../Core/Src/mpu6050.c:43:9:Mpu_Oku	96	static
